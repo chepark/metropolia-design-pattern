@@ -7,7 +7,14 @@
         <option value="$PROJECT_DIR$/week1/pom.xml" />
         <option value="$PROJECT_DIR$/week2-1/pom.xml" />
         <option value="$PROJECT_DIR$/week2-2/pom.xml" />
+        <option value="$PROJECT_DIR$/week2-2again/pom.xml" />
+        <option value="$PROJECT_DIR$/week3-1Observer/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/week2-2again/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
