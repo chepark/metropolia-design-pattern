@@ -10,6 +10,7 @@
         <module name="week2-2" />
         <module name="week2-1" />
         <module name="week3-1Observer" />
+        <module name="week4-1_decorator" />
         <module name="week3-2Singleton" />
       </profile>
     </annotationProcessing>
