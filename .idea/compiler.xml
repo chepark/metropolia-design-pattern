@@ -9,6 +9,7 @@
         <module name="week1" />
         <module name="week4_2state" />
         <module name="week3-2Singleton" />
+        <module name="week6_template-methods" />
         <module name="week2-2" />
         <module name="week2-1" />
         <module name="week3-1Observer" />
