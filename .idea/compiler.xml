@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="week1" />
+        <module name="week7-2_ChainOfResponsibility" />
         <module name="week4_2state" />
         <module name="week3-2Singleton" />
-        <module name="week6_template-methods" />
         <module name="week2-2" />
         <module name="week2-1" />
         <module name="week3-1Observer" />
@@ -18,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="week2-2again" target="21" />
+      <module name="week7_strategy" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
