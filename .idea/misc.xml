@@ -14,11 +14,17 @@
         <option value="$PROJECT_DIR$/week4_2state/pom.xml" />
         <option value="$PROJECT_DIR$/week6_template-methods/pom.xml" />
         <option value="$PROJECT_DIR$/week7-2_ChainOfResponsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/week9_Memento/pom.xml" />
+        <option value="$PROJECT_DIR$/week9_Memen/pom.xml" />
+        <option value="$PROJECT_DIR$/week9_memento/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/week2-2again/pom.xml" />
+        <option value="$PROJECT_DIR$/week6_template-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/week9_Memen/pom.xml" />
+        <option value="$PROJECT_DIR$/week9_Memento/pom.xml" />
       </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
