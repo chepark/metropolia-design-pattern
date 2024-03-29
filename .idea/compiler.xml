@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="week9_memento" />
         <module name="week7-2_ChainOfResponsibility" />
+        <module name="week10_proxy" />
         <module name="week4_2state" />
+        <module name="week3-2Singleton" />
+        <module name="week9_memento" />
+        <module name="week10-2_visitor" />
         <module name="week3-1Observer" />
         <module name="week4-1_decorator" />
-        <module name="week3-2Singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
