@@ -6,10 +6,9 @@ public class Main {
     public static void main(String[] args) {
         NewDateInterface dateAdapter = new CalendarToNewDateAdapter();
 
-        // Set date to January 1, 2023
-        dateAdapter.setYear(2023);
-        dateAdapter.setMonth(1); // January
-        dateAdapter.setDay(1);
+        dateAdapter.setYear(2024);
+        dateAdapter.setMonth(4);
+        dateAdapter.setDay(2);
 
         System.out.println("Original date: " + dateAdapter.getDay() + "/" + dateAdapter.getMonth() + "/" + dateAdapter.getYear());
 
