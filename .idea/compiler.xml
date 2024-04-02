@@ -9,6 +9,7 @@
         <module name="week7-2_ChainOfResponsibility" />
         <module name="week10_proxy" />
         <module name="week4_2state" />
+        <module name="week11-2_adapter" />
         <module name="week3-2Singleton" />
         <module name="week9_memento" />
         <module name="week10-2_visitor" />
