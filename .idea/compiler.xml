@@ -15,6 +15,7 @@
         <module name="week10-2_visitor" />
         <module name="week11-1_builder" />
         <module name="week3-1Observer" />
+        <module name="week12-1_bridge" />
         <module name="week4-1_decorator" />
       </profile>
     </annotationProcessing>
