@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/week11-1_builder/pom.xml" />
         <option value="$PROJECT_DIR$/week11-2_adapter/pom.xml" />
         <option value="$PROJECT_DIR$/week12-1_bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/week12-2_flyweight/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
