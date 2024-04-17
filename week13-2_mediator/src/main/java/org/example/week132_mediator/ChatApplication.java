@@ -9,6 +9,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+import java.util.ArrayList;
+
 public class ChatApplication extends Application {
 
     ChatMediator mediator = new ChatMediatorImpl();
@@ -26,9 +28,6 @@ public class ChatApplication extends Application {
         TextArea textArea = new TextArea();
         TextField textField = new TextField();
         Button sendButton = new Button("Send");
-        ComboBox<String> userSelection = new ComboBox<>();
-        userSelection.getItems().addAll("John", "Doe", "Jane");
-        userSelection.getSelectionModel().select(username);
 
         ChatUser user = new ChatUserImpl(mediator, username, textArea);
         mediator.addUser(user);
@@ -40,7 +39,7 @@ public class ChatApplication extends Application {
             }
         });
 
-        root.getChildren().addAll(textArea, userSelection, textField, sendButton);
+        root.getChildren().addAll(textArea, textField, sendButton);
         Scene scene = new Scene(root, 400, 200);
         stage.setScene(scene);
         stage.setTitle(username);
