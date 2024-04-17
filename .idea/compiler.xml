@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="week10_proxy" />
         <module name="week11-2_adapter" />
+        <module name="week13-2_mediator" />
         <module name="week13-1_prototype" />
         <module name="week10-2_visitor" />
         <module name="week11-1_builder" />
