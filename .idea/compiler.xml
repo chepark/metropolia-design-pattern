@@ -13,6 +13,7 @@
         <module name="week10-2_visitor" />
         <module name="week11-1_builder" />
         <module name="week12-2_flyweight" />
+        <module name="week14-2_iterator" />
         <module name="week7-2_ChainOfResponsibility" />
         <module name="week4_2state" />
         <module name="week3-2Singleton" />
