@@ -18,6 +18,7 @@
         <module name="week4_2state" />
         <module name="week3-2Singleton" />
         <module name="week9_memento" />
+        <module name="week14-1_facade" />
         <module name="week3-1Observer" />
         <module name="week12-1_bridge" />
         <module name="week4-1_decorator" />
