@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="week10_proxy" />
+        <module name="week15_command" />
         <module name="week11-2_adapter" />
         <module name="week13-2_mediator" />
         <module name="week13-1_prototype" />
